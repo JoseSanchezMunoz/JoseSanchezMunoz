@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hello :wave: I am Jose Sanchez 👋</h1>
+  <h1 align="center">Hello :wave: I am Jose Sanchez </h1>
 </div>
 
 - A Systems Engineer :sparkles: 
