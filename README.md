@@ -55,7 +55,7 @@ technologies.
     <img height="180em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseSanchezMunoz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseSanchezMunoz&layout=compact&langs_count=true8&theme=algolia" />
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseSanchezMunoz&layout=compact&langs_count=true&theme=algolia" />
   </a>
 </p>
 <br>
