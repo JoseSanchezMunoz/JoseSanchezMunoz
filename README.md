@@ -80,7 +80,7 @@ Mi enfoque profesional combina desarrollo de software, automatización de proces
 
 <p>Connect with me on
   <br> <br>
-  <a target="_blank" href="https://www.linkedin.com/in/jose-sanchez-munoz/"><img
+  <a target="_blank" href="https://www.linkedin.com/in/jose-anderson-sanchez-munoz/"><img
       src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <br>
 </p>
